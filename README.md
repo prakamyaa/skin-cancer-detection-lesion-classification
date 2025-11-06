@@ -1,1 +1,1 @@
-# skin-cancer-detection-lesion-classification
+# Skin-Cancer-Detection-with-CNN-Deep-Learning
